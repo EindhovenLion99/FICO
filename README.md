@@ -13,6 +13,7 @@ A su vez se lleva un control estricto sobre los traspasos de jugadores que se pr
 
 <div align="center">
   <img src="Images/EsquemaGeneral.png">
+  <br>
   <figcaption>Esquema Preliminar</figcaption>
 </div>
 
