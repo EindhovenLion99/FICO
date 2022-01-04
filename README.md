@@ -1,11 +1,9 @@
 # FICO
 
-<p style="center">
+<div align="center">
   <img src="Images/FICO.png">
-</p>
-
-<p style="center">
   <p>Federacion Internacional de Clubes y Organizaciones</p>
-</p>
+</div>
+
 
 
