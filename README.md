@@ -25,6 +25,7 @@ Cada club tiene su propio *estadio* asignado, pero pueden existir estadios que n
 
 Por último existen los *traspasos*, jugadores que fichan de un club a otro, los cuales están supervisados por las organizaciones. Una organización puede supervisar muchos traspasos, o ninguno si no se producen en su organización. Un club puede fichar muchos o ningún jugador, lo mismo ocurre con un jugador, que puede fichar por muchos clubes o ninguno.
 
+* [Requisitos](https://docs.google.com/document/d/1Mm-yLxyrg4cnYP9y0ef49ELcdPkCLvhwRBDJf_122zs/edit?usp=sharing)
 * [Modelo ER](https://docs.google.com/document/d/1f7c0EEqeXGI-qqVlf7PljuhRpcWJIme-CZ_VWpxWbQU/edit?usp=sharing)
 * [Modelo Relacional](https://docs.google.com/document/d/1swHmw1QbbAVNrkhj5Vmb2teFxJzQABG7RHwIM9xRjqw/edit?usp=sharing)
 * [Modelo UML](https://docs.google.com/document/d/1XaCk8oq2xQWoXmwaMm4k9ZOoVtl2FzfDmr3BYnWuF9U/edit?usp=sharing)
